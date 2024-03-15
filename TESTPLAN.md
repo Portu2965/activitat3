@@ -1,5 +1,3 @@
-###Test de cadenes buides
-
 ### 1. Quan es passa una cadena buida, el resultat hauria de ser true.
 - Entrada: ""
 - Resultado esperado: true
